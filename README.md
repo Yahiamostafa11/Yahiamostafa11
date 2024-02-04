@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm [YAHIA MOSTAFA], a passionate software engineering and communication engineering student with a love for swimming. I thrive on challenges and approach them with a positive mindset.
+Hello there! 👋 I'm *YAHIA MOSTAFA*, a passionate software engineering and communication engineering student with a love for swimming. I thrive on challenges and approach them with a positive mindset.
 
 ## Education
 
@@ -22,8 +22,8 @@ Explore my repositories to witness my journey in software development and engine
 
 ## Contact
 
-Feel free to connect with me through GitHub or reach out via [yahiaworke11@gmail.com] or [https://www.linkedin.com/in/yahia-mostafa-391460277/]. Let's collaborate and make a splash in the world of technology together!
+Feel free to connect with me through GitHub or reach out via yahiaworke11@gmail.com or https://www.linkedin.com/in/yahia-mostafa-391460277/. Let's collaborate and make a splash in the world of technology together!
 
-[Yahia mostafa]
-[Yahiawork11@gmail.com]
-[https://www.linkedin.com/in/yahia-mostafa-391460277/]
+Yahia mostafa
+Yahiawork11@gmail.com
+https://www.linkedin.com/in/yahia-mostafa-391460277/
