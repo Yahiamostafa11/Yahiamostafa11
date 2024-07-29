@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yahiamostafa11&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Yahiamostafa11/github-readme-stats)
 <br/><br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yahiamostafa11.Yahiamostafa11" />
 
@@ -59,7 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr/>
