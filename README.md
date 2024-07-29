@@ -59,7 +59,7 @@
 <div align=center>
   <img width=390 src="" alt="streak stats"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yahiamostafa11&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Yahiamostafa11/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yahiamostafa11&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Yahiamostafa11/github-readme-stats)
 <br/><br/>
 
 <hr/>
